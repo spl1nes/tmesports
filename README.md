@@ -39,7 +39,7 @@ Limited player mixing can result in players "farming" ratings while never meetin
 
 ### Missing data
 
-Missing data means that the ratings are inaccurate, which is especially 
+Missing data means that the ratings are inaccurate
 
 1. Data of TMGL/TMCL 2023 Stage 2 is missing completely
 2. Data of TMGL/TMCL 2023 Stage 1 playoffs is missing
