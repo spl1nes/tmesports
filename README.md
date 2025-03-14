@@ -6,7 +6,7 @@ This project was a mock to see if it would be possible to create a Trackmania es
 
 ## Data collection
 
-* Individual performances are recorded they are. Matches with multiple opponents (normal situation) are considered as N parallel 1vN matches.
+* Matches with multiple opponents (normal situation) are considered as N parallel 1vN matches.
 * Team performances are recorded based on individual placement. The recording basically ignores the fact that teams exist.
 
 ## Pitfalls
